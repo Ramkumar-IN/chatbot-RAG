@@ -1,0 +1,20 @@
+# Ignore virtual environments
+.venv/
+.venv_chatbot/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment/config files
+.env
+
+
+# VSCode / Cursor IDE settings
+.vscode/
+.cursor/
+
+.DS_Store
+

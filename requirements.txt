@@ -1,0 +1,12 @@
+google-genai
+psycopg2
+PyPDF2
+numpy
+langchain
+google-generativeai
+dateparser
+ultralytics
+huggingface_hub
+doclayout_yolo
+PyMuPDF
+dotenv
